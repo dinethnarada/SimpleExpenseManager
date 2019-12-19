@@ -4,7 +4,24 @@
             "outputFile": "C:\\Users\\Dineth Narada\\Documents\\GitHub\\SimpleExpenseManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dineth Narada\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.1.aar\\38877d50b498e42c4aa04a4dd292afb1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "source": "C:\\Users\\Dineth Narada\\.gradle\\caches\\transforms-2\\files-2.1\\08f0eaeb974159cf8dee0ccc0d0334e3\\appcompat-v7-23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,10,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "233,302,372,446,700,937,1008,1076",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "297,367,441,517,754,1003,1071,1126"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,1041",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,1091"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dineth Narada\\.gradle\\caches\\transforms-2\\files-2.1\\a5c9c452891ec4c960663a50a8128a96\\design-23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,13,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -20,23 +37,6 @@
                         "endLines": "9,10,11,12,13,14,15,17,21",
                         "endColumns": "69,70,71,57,57,105,63,62,12",
                         "endOffsets": "607,678,750,808,866,972,1036,1154,1336"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Dineth Narada\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\dae5e63bb1310d6dfbc245a717a0c19b\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,10,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "233,302,372,446,700,937,1008,1076",
-                        "endColumns": "68,69,73,75,58,70,67,54",
-                        "endOffsets": "297,367,441,517,754,1003,1071,1126"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,16",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,194,268,344,403,474,1041",
-                        "endColumns": "68,69,73,75,58,70,67,54",
-                        "endOffsets": "119,189,263,339,398,469,537,1091"
                     }
                 }
             ]

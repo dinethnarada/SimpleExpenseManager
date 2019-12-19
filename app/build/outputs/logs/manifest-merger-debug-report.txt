@@ -4,10 +4,10 @@ ADDED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\38877d50b498e42c4aa04a4dd292afb1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\dae5e63bb1310d6dfbc245a717a0c19b\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\a1fae112754a800d0b6ac9326118f355\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\d7993863985df2dbdd346b4be7a7ad7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\a5c9c452891ec4c960663a50a8128a96\design-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\08f0eaeb974159cf8dee0ccc0d0334e3\appcompat-v7-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\5a5db79ae5145b1e93f9648cc9df472b\recyclerview-v7-23.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\63644aef90f48b931f553e2e391be3d5\support-v4-23.1.1\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
@@ -27,12 +27,12 @@ INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\s
 		ADDED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:11-69
 application
 ADDED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-37:19
-MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\38877d50b498e42c4aa04a4dd292afb1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\38877d50b498e42c4aa04a4dd292afb1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\dae5e63bb1310d6dfbc245a717a0c19b\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\dae5e63bb1310d6dfbc245a717a0c19b\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\d7993863985df2dbdd346b4be7a7ad7c\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\d7993863985df2dbdd346b4be7a7ad7c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\a5c9c452891ec4c960663a50a8128a96\design-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\a5c9c452891ec4c960663a50a8128a96\design-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\08f0eaeb974159cf8dee0ccc0d0334e3\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\08f0eaeb974159cf8dee0ccc0d0334e3\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\63644aef90f48b931f553e2e391be3d5\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\63644aef90f48b931f553e2e391be3d5\support-v4-23.1.1\AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
@@ -65,14 +65,14 @@ uses-sdk
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\38877d50b498e42c4aa04a4dd292afb1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\38877d50b498e42c4aa04a4dd292afb1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\dae5e63bb1310d6dfbc245a717a0c19b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\dae5e63bb1310d6dfbc245a717a0c19b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\a1fae112754a800d0b6ac9326118f355\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\a1fae112754a800d0b6ac9326118f355\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\d7993863985df2dbdd346b4be7a7ad7c\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\d7993863985df2dbdd346b4be7a7ad7c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\a5c9c452891ec4c960663a50a8128a96\design-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\a5c9c452891ec4c960663a50a8128a96\design-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\08f0eaeb974159cf8dee0ccc0d0334e3\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\08f0eaeb974159cf8dee0ccc0d0334e3\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\5a5db79ae5145b1e93f9648cc9df472b\recyclerview-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\5a5db79ae5145b1e93f9648cc9df472b\recyclerview-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\63644aef90f48b931f553e2e391be3d5\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Dineth Narada\.gradle\caches\transforms-2\files-2.1\63644aef90f48b931f553e2e391be3d5\support-v4-23.1.1\AndroidManifest.xml:20:5-43
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Dineth Narada\Documents\GitHub\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
